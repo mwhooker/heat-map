@@ -5,6 +5,11 @@ import math
 import random
 
 
+"""
+TODO:
+    output an image instead of this number grid
+"""
+
 log = logging.getLogger(__name__)
 ch = logging.StreamHandler()
 log.addHandler(ch)
